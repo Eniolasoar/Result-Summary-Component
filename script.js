@@ -45,4 +45,8 @@ function content(data){
     })
 }
 
+function resultTotal(){
+    
+}
+
 fetchJSON(content);
